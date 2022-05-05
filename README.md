@@ -1,1 +1,1 @@
-# ci-cd-selenium
+# ci/cd-selenium python
